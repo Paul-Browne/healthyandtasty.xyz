@@ -1,0 +1,27 @@
+body {
+    background: url(/images/wood.jpg);
+    font-family: sans-serif;
+}
+
+header.body-header {
+    background: url(/images/body-header.jpg);
+    background-size: cover;
+    background-position-y: bottom;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    color: #634012;
+    text-decoration: none;
+}
+
+header.body-header a {
+    font-family: 'Lora', serif;
+    color: #fff;
+    text-decoration: none;
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 1px #000;
+}

@@ -16,7 +16,6 @@ const sourceRoot = process.env.SOURCE_DIR_NAME || 'src';
 function removeUnusedPlaceholders(html) {
     if (html.match(/\[\[(\w|-)*\]\]/g)) {
         html.match(/\[\[(\w|-)*\]\]/g).forEach(function(ph) {
-            //console.error(ph + " found but not replaces");
             html = html.replace(ph, "");
         }, this)
     }
@@ -35,11 +34,6 @@ function replacePlaceholders(filename, obj) {
 
 
 function buildPage(mapObj, obj) {
-    console.log('buildPage', mapObj, obj);
-    // add watcher to each file
-    // and somehow map back to the
-    // template so that only
-    // templates that use that file are updated...
     var html;
     for (var key in mapObj) {
         var string = "[[" + key + "]]";
@@ -73,7 +67,6 @@ function buildPage(mapObj, obj) {
 
 
 function buildHTML(obj) {
-    console.log("buildHTML", obj);
     var data = fs.readFileSync('contentmap.json', 'utf8');
     var json = JSON.parse(data);
     for (var key in json) {
@@ -85,8 +78,6 @@ function buildHTML(obj) {
 
 
 function createFile(name, dir, obj) {
-    console.log('createFile', name, obj);
-    // remember which page uses what template
     var dirPath = dir ? "/" + dir : "";
     var contents = buildHTML(obj);
     fs.writeFile(publicRoot + dirPath + "/" + name + ".html", contents, function(err) {
@@ -95,7 +86,6 @@ function createFile(name, dir, obj) {
         }
     });
     newTime = Date.now() - timerStart;
-    console.log(publicRoot + dirPath + "/" + name + ".html generated, total time elapsed " + (newTime/1000).toFixed(1) + " s");
 }
 
 
