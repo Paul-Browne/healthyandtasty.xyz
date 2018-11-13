@@ -20,6 +20,10 @@ body {
     margin: 0;
 }
 
+html:not(.index) body {
+    background-size: cover;
+}
+
 header.body-header {
     background: url(/images/body-header.jpg);
     background-size: cover;

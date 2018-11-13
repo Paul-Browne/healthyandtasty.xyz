@@ -1,13 +1,17 @@
 {
   "name": "healthyandtasty.xyz",
   "version": "1.0.0",
-  "description": "",
+  "description": "website for healthyandtasty.xyz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Browne/healthyandtasty.xyz.git"
+  },
   "main": "index.js",
   "scripts": {
     "serve": "node serve.js",
     "build": "node build.js"
   },
-  "author": "",
+  "author": "Paul Browne",
   "license": "MIT",
   "devDependencies": {
     "chokidar": "^2.0.4",
