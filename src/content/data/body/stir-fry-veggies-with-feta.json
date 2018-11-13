@@ -1,0 +1,22 @@
+{
+	"name" : "Stir-fry veggies with feta",
+	"image" : "stir-fry-veggies-with-feta.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Zuccini"},
+		{ "ingredient" : "1/2 Red onion"},
+		{ "ingredient" : "1 Pack Feta"},
+		{ "ingredient" : "1/2 Red Pepper"},
+		{ "ingredient" : "Himalayan salt"},
+		{ "ingredient" : "Black pepper"},
+		{ "ingredient" : "Olive oil" }
+	],
+	"instructions" : "Chop and fry the vegetables, meanwhile cube the feta."
+}
+
+
+
+
+
+
+
+

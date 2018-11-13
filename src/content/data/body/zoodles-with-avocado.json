@@ -1,0 +1,17 @@
+{
+	"name" : "Zoodles with Avocado",
+	"image" : "zoodles-with-avocado.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Zuccini"},
+		{ "ingredient" : "1/2 Basil"},
+		{ "ingredient" : "2 1/2dl Peas"},
+		{ "ingredient" : "1 Garlic clove"},
+		{ "ingredient" : "1/2dl Walnuts"},
+		{ "ingredient" : "1 Lemon"},
+		{ "ingredient" : "4tbs Olive oil"},
+		{ "ingredient" : "1/2tbs Himalayan Salt"},
+		{ "ingredient" : "Black Pepper"}
+	],
+	"instructions" : "Make the zoodles. Blend all of the other ingredients together.",
+	"instructions-extended" : "<b>Tip:</b> To make the dish more filling. Add extra walnuts on top of the dish."
+}

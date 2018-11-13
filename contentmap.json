@@ -6,7 +6,10 @@
 		"global-style-and-scripts" : "head/[PH1]",
 		"body": "body",
 		"header": "body/header",
-		"main": "body/[PH1]"
+		"main": {
+			"data": "data/body/[PH1].json",
+			"template" : "templates/body/[PH1].mustache"
+		}
 	},
 	"recipe": {
 		"html": "base",
@@ -15,6 +18,9 @@
 		"global-style-and-scripts" : "head/recipe",
 		"body": "body",
 		"header": "body/header",
-		"main": "body/[PH1]"
+		"main": {
+			"data": "data/body/[PH1].json",
+			"template" : "templates/body/recipe.mustache"
+		}
 	}
 }

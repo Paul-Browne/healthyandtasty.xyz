@@ -1,0 +1,16 @@
+{
+	"name" : "Halloumi Spinach and Tomato dish",
+	"image" : "halloumi-spinach-and-tomato-dish.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1/2 pack Halloumi" },
+		{ "ingredient" : "10 Cherry tomatoes" },
+		{ "ingredient" : "1/2 a Fennel" },
+		{ "ingredient" : "40g Spinnach" },
+		{ "ingredient" : "Olive oil" },
+		{ "ingredient" : "Garlic powder" },
+		{ "ingredient" : "White pepper" },
+		{ "ingredient" : "Himalayan Salt" }
+	],
+	"instructions" : "Chop the Fennel and slice the courgette. Place them in oven for 15 min. Meanwhile slice halloumi and prepare the quinoa.",
+	"instructions-extended" : "Add the halloumi and cherry tomatoes to the dish and place in the oven for 15 more minutes Blanche the spinach and serve the dish."
+}

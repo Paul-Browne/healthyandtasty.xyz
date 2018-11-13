@@ -1,0 +1,17 @@
+{
+	"name" : "Sweet Potato and Goat cheese",
+	"image" : "sweet-potato-and-goat-cheese.jpg",
+	"ingredients" : [
+		{ "ingredient" : "100g Goat cheese"},
+		{ "ingredient" : "1/2 Sweet potato"},
+		{ "ingredient" : "1 dl Quinoa"},
+		{ "ingredient" : "1 tsp Miso"},
+		{ "ingredient" : "Rosemary"},
+		{ "ingredient" : "Lettuce"},
+		{ "ingredient" : "Himalayan Salt"},
+		{ "ingredient" : "White pepper"},
+		{ "ingredient" : "Black pepper"}
+	],
+	"instructions" : "Bake the sweet potato in the oven at 250c, for approximately 60mins, depending on the size* Cook the quinoa with miso and the other spices. Lettuce adds a crunch to the dish and makes a nice garnish.<br>This dish is light, tasty and nutritious!",
+	"instructions-extended": "<b>*</b> If you wish to speed up the process, chop the sweet potato into quarters"
+}

@@ -1,0 +1,29 @@
+<main class="recipe">
+    <h1 class="recipe-name">{{name}}</h1>
+    <img class="recipe-image" src=/images/{{image}}>
+    <div class="recipe-ingredients">
+
+    {{#ingredients}}
+
+        {{#serves}}
+            <p><b>{{{serves}}}</b></p>
+        {{/serves}}
+
+        {{#sub-heading}}
+            <p><br><b>{{{sub-heading}}}</b></p>
+        {{/sub-heading}}
+
+        {{#ingredient}}
+            <p>{{{ingredient}}}</p>
+        {{/ingredient}}
+
+    {{/ingredients}}
+
+    <p>{{{instructions}}}</p>
+
+    {{#instructions-extended}}
+        <p>{{{instructions-extended}}}</p>
+    {{/instructions-extended}}
+
+    </div>
+</main>

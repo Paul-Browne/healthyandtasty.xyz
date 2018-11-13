@@ -1,0 +1,13 @@
+{
+	"name" : "Goat Cheese Salad",
+	"image" : "goat-cheese-salad.jpg",
+	"ingredients" : [
+		{ "ingredient" : "100g Goat brie cheese" },
+		{ "ingredient" : "1/3 Red pepper" },
+		{ "ingredient" : "3 cm Cucumber" },
+		{ "ingredient" : "1/2 pack Dark green lettuce" },
+		{ "ingredient" : "Balsamic sauce" },
+		{ "ingredient" : "Himalayan salt" },
+		{ "ingredient" : "Black pepper" }
+	]
+}

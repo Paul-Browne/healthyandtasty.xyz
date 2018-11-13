@@ -1,0 +1,14 @@
+{
+	"name" : "Zoodle salad with tofu",
+	"image" : "zoodle-salad-with-tofu.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Zucchini"},
+		{ "ingredient" : "1 Pack Tofu"},
+		{ "ingredient" : "4tbs Pumpkin seeds"},
+		{ "ingredient" : "Himalayan Salt"},
+		{ "ingredient" : "Olive oil"},
+		{ "ingredient" : "Black pepper"}
+	],
+	"instructions" : "Make the Zoodles and chop the tofu. Sprinkle pumpkin seeds, olive oil, salt and pepper on the dish.",
+	"instructions-extended" : "<b>Tip:</b> You can heat the Zoodles and tofu if you want a warm meal."
+}

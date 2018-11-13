@@ -1,0 +1,12 @@
+{
+	"name" : "Chickpea pasta and spinach",
+	"image" : "chickpea-pasta-and-spinach.jpg",
+	"ingredients" : [
+		{ "ingredient" : "50g Spinach" },
+		{ "ingredient" : "50g Chickpea pasta" },
+		{ "ingredient" : "Grated vegan cheese" },
+		{ "ingredient" : "Cashews" },
+		{ "ingredient" : "Himalayan Salt" },
+		{ "ingredient" : "Olive oil"  }
+	]
+}

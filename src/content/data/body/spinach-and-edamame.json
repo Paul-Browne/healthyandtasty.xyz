@@ -1,0 +1,11 @@
+{
+	"name" : "Spinach and Edamame",
+	"image" : "spinach-and-edamame.jpg",
+	"ingredients" : [
+		{ "ingredient" : "50g Spinach" },
+		{ "ingredient" : "100g Edamame pasta" },
+		{ "ingredient" : "1 1/2 dl cashews" },
+		{ "ingredient" : "Himalayan salt" }
+	],
+	"instructions" : "Crush the cashews. Boil the Edamame pasta, Lightly fry the spinach in ghee.<br>Serve and enjoy."
+}

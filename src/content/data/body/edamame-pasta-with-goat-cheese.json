@@ -1,0 +1,15 @@
+{
+	"name" : "Edamame Pasta with Goat Cheese",
+	"image" : "edamame-pasta-with-goat-cheese.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Pack Edamame pasta" },
+		{ "ingredient" : "1 Log of Brie Goat cheese" },
+		{ "ingredient" : "1/2 Fennel" },
+		{ "ingredient" : "1/2 Fresh Basil" },
+		{ "ingredient" : "2 hand fulls off fresh spinach" },
+		{ "ingredient" : "Himalayan Salt" },
+		{ "ingredient" : "Black pepper" },
+		{ "ingredient" : "Olive oil" }
+	],
+	"instructions" : "Slice the goat cheese. Chop the fennel, spinach and basil.<br> Fry the fennel, boil pasta, serve the dish with basil and spinach. Sprinkle with olive oil, Himalayan salt and black pepper."
+}

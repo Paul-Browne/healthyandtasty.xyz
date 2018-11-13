@@ -1,0 +1,13 @@
+{
+	"name" : "Butternut squash with Walnuts",
+	"image" : "butternut-squash-with-walnuts.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Butternut squash" },
+		{ "ingredient" : "40g Spinach" },
+		{ "ingredient" : "2dl Quinoa" },
+		{ "ingredient" : "100 - 120g Pecan nuts" },
+		{ "ingredient" : "Himalayan salt" }
+	],
+	"instructions" : "Peel and slice the pumpkin, place it in the oven on 200c for 30-40min.<br>In the meantime prepare the quinoa Serve the pumpkin on a bed of quinoa and spinich with the pecan nuts on top.",
+	"instructions-extended" : "<b>Tip:</b> If raw spinach is to much for you, blanche the spinach for 2-3 minutes."
+}

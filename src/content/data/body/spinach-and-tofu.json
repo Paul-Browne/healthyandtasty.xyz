@@ -1,0 +1,13 @@
+{
+	"name" : "Spinach and Tofu",
+	"image" : "spinach-and-tofu.jpg",
+	"ingredients" : [
+		{ "ingredient" : "Rice" },
+		{ "ingredient" : "150g Spinach" },
+		{ "ingredient" : "1 Pack Tofu" },
+		{ "ingredient" : "Himalayan Salt" },
+		{ "ingredient" : "Black pepper" },
+		{ "ingredient" : "Dried Garlic" }
+	],
+	"instructions" : "Steam the rice, meanwhile cube the tofu.  Fry the tofu and ad the spices, blanch the spinach.<br>Serve on a bed of rice."
+}

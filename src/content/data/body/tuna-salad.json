@@ -1,0 +1,15 @@
+{
+	"name" : "Tuna Salad",
+	"image" : "tuna-salad.jpg",
+	"ingredients" : [
+		{ "ingredient" : "Iceberg lettuce"},
+		{ "ingredient" : "Cherry tomatos"},
+		{ "ingredient" : "Red onion"},
+		{ "ingredient" : "Cucumber"},
+		{ "ingredient" : "Pumpkin seeds"},
+		{ "ingredient" : "Tunafish"},
+		{ "ingredient" : "Boiled egg"},
+		{ "ingredient" : "<a href='/homemade-fish-sauce'>homemade fish sauce</a>"}
+	],
+	"instructions" : "Grate the ginger and press the garlic, lightly fry for a few minutes. Chop the carrots, the leek and the kale, fry for approximately 10 min until the carrots have softened. Cube the tofu and ad it to the fried veggies. Add the rest of the ingredients into the wok. (Coconut milk, peanut butter, soy, garlic, ginger, sriracha sauce) Let everything simmer for a few minutes whilst stirring so that the flavors blend together. Serve with boiled rice."
+}

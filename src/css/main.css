@@ -1,6 +1,23 @@
+/*
+    mobile first
+
+    "mobile-landscape": 440     // 27.5em 
+    "tablet": 720,              // 45em
+    "tablet-landscape": 1000,   // 62.5em
+    "laptop": 1280,             // 80em
+    "desktop": 1560,            // 97.5em
+*/
+
+
+*, :before, :after{
+    box-sizing: border-box;
+}
+
 body {
     background: url(/images/wood.jpg);
+    background-size: contain;
     font-family: sans-serif;
+    margin: 0;
 }
 
 header.body-header {
@@ -22,6 +39,81 @@ header.body-header a {
     font-family: 'Lora', serif;
     color: #fff;
     text-decoration: none;
-    font-size: 2.5rem;
+    font-size: 3rem;
     text-shadow: 1px 1px 1px #000;
 }
+
+
+.home{
+    max-width: 1560px;
+    padding: 0 10px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.home article{
+    width: 100%;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+}
+
+@media (min-width:440px){
+    .home article{
+        width: 50%;
+    }
+}
+
+@media (min-width:720px){
+    .home article{
+        width: 33.3333%;
+    }
+}
+
+@media (min-width:1000px){
+    .home article{
+        width: 25%;
+    }
+}
+
+.home img{
+    vertical-align: middle;
+    width: 100%;
+    height: 256px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 1rem; 
+}
+
+
+.recipe{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+.recipe-name{
+    width: 100%;
+}
+
+.recipe-image{
+    vertical-align: middle;
+    width: 100%;
+}
+
+@media (min-width:720px){
+    .recipe-image{
+        width: calc( (5/12) * 100%);
+    }
+    .recipe-ingredients{
+        width: calc( (1/2) * 100%);
+    }
+}
+
+
+

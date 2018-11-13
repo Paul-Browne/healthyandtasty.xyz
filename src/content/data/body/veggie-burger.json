@@ -1,0 +1,12 @@
+{
+	"name" : "Veggie Burger",
+	"image" : "veggie-burger.jpg",
+	"ingredients" : [
+		{ "ingredient" : "Veggie steak"},
+		{ "ingredient" : "Lettuce"},
+		{ "ingredient" : "Full grain bread bun"},
+		{ "ingredient" : "Cheese"},
+		{ "ingredient" : "Salsa sauce"}
+	],
+	"instructions" : "<a href='https://www.bbcgoodfood.com/recipes/ultimate-tomato-salsa' target='_blank'>BBC: ultimate tomato salsa</a>"
+}

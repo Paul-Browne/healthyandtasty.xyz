@@ -1,7 +1,7 @@
 var timerStart = Date.now();
 
 const path = require("path");
-const fs = require('fs');
+const fs = require('fs-extra');
 const os = require('os');
 const env = require('dotenv');
 const mkdirp = require('mkdirp');
@@ -10,18 +10,20 @@ const mustache = require('mustache');
 const minify = require('html-minifier').minify;
 
 env.config();
-const publicRoot = process.env.PUBLIC_DIR_NAME || 'public';
-const sourceRoot = process.env.SOURCE_DIR_NAME || 'src';
+const publicDirectoryName = process.env.PUBLIC_DIR_NAME || 'public';
+const sourceDirectoryName = process.env.SOURCE_DIR_NAME || 'src';
+const contentDirectoryName = process.env.CONTENT_DIR_NAME || 'content';
+const contentDirectoryPath = sourceDirectoryName + "/" +  contentDirectoryName;
 
 function removeUnusedPlaceholders(html) {
     if (html.match(/\[\[(\w|-)*\]\]/g)) {
         html.match(/\[\[(\w|-)*\]\]/g).forEach(function(ph) {
+            //console.error(ph + " found but not replaces");
             html = html.replace(ph, "");
         }, this)
     }
     return html;
 }
-
 
 function replacePlaceholders(filename, obj) {
     if (filename.match(/\[\w*\d+\]/g)) {
@@ -34,19 +36,24 @@ function replacePlaceholders(filename, obj) {
 
 
 function buildPage(mapObj, obj) {
+    // console.log('buildPage', mapObj, obj);
+    // add watcher to each file
+    // and somehow map back to the
+    // template so that only
+    // templates that use that file are updated...
     var html;
     for (var key in mapObj) {
         var string = "[[" + key + "]]";
         var fileContents;
         if (key === "html") {
-            html = fs.readFileSync(sourceRoot + "/" + mapObj[key] + ".html", 'utf8');
+            html = fs.readFileSync(contentDirectoryPath + "/" + mapObj[key] + ".html", 'utf8');
         } else if (typeof mapObj[key] === 'object') {
-            var mustacheTemplate = fs.readFileSync(sourceRoot + "/" + replacePlaceholders(mapObj[key].template, obj), 'utf8');
-            var mustacheData = fs.readFileSync(sourceRoot + "/" + replacePlaceholders(mapObj[key].data, obj), 'utf8');
+            var mustacheTemplate = fs.readFileSync(contentDirectoryPath + "/" + replacePlaceholders(mapObj[key].template, obj), 'utf8');
+            var mustacheData = fs.readFileSync(contentDirectoryPath + "/" + replacePlaceholders(mapObj[key].data, obj), 'utf8');
             fileContents = mustache.render(mustacheTemplate, JSON.parse(mustacheData));
         } else {
             try {
-                fileContents = fs.readFileSync(sourceRoot + "/" + replacePlaceholders(mapObj[key], obj) + ".html", 'utf8');
+                fileContents = fs.readFileSync(contentDirectoryPath + "/" + replacePlaceholders(mapObj[key], obj) + ".html", 'utf8');
             } catch (err) {
                 fileContents = replacePlaceholders(mapObj[key], obj);
             }
@@ -67,6 +74,7 @@ function buildPage(mapObj, obj) {
 
 
 function buildHTML(obj) {
+    // console.log("buildHTML", obj);
     var data = fs.readFileSync('contentmap.json', 'utf8');
     var json = JSON.parse(data);
     for (var key in json) {
@@ -78,19 +86,22 @@ function buildHTML(obj) {
 
 
 function createFile(name, dir, obj) {
+    // console.log('createFile', name, obj);
+    // remember which page uses what template
     var dirPath = dir ? "/" + dir : "";
     var contents = buildHTML(obj);
-    fs.writeFile(publicRoot + dirPath + "/" + name + ".html", contents, function(err) {
+    fs.writeFile(publicDirectoryName + dirPath + "/" + name + ".html", contents, function(err) {
         if (err) {
             console.error(err);
         }
     });
     newTime = Date.now() - timerStart;
+    console.log(publicDirectoryName + dirPath + "/" + name + ".html generated, total time elapsed " + (newTime / 1000).toFixed(1) + " s");
 }
 
 
 function makeDir(path) {
-    mkdirp(publicRoot + "/" + path, function(err) {
+    mkdirp(publicDirectoryName + "/" + path, function(err) {
         if (err) {
             console.error(err);
         }
@@ -123,11 +134,24 @@ fs.readFile('sitemap.json', 'utf8', function(err, data) {
     if (err) {
         console.error(err);
     } else {
-        mkdirp(publicRoot, function(err) {
+        mkdirp(publicDirectoryName, function(err) {
             if (err) {
                 console.error(err);
+            } else {
+                fs.copy(sourceDirectoryName, publicDirectoryName, err => {
+                    if (err) {
+                        return console.error(err);
+                    } else {
+                        fs.remove(publicDirectoryName + '/' + contentDirectoryName, err => {
+                            if (err) {
+                                return console.error(err);
+                            }
+                        })
+                    }
+                });
+                jsonWalker(JSON.parse(data));
             }
         });
-        jsonWalker(JSON.parse(data));
     }
 });
+

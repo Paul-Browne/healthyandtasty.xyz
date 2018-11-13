@@ -1,0 +1,16 @@
+{
+	"name" : "Salad festival",
+	"image" : "salad-festival.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1/2 Bag of mixed salad" },
+		{ "ingredient" : "50g Goat cheese" },
+		{ "ingredient" : "4cm of Cucumber" },
+		{ "ingredient" : "2tbs of Almonds" },
+		{ "ingredient" : "7 cherry Tomatos" },
+		{ "ingredient" : "Himalayan Salt" },
+		{ "ingredient" : "Black Pepper" },
+		{ "ingredient" : "Olive oil"  }
+	],
+	"instructions" : "Balsamic goes nicely with this salad"
+}
+

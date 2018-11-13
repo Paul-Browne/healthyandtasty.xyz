@@ -1,0 +1,18 @@
+{
+	"name" : "Sweet Potato and Coconut soup",
+	"image" : "sweet-potato-and-coconut-soup.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Sweet potato"},
+		{ "ingredient" : "250ml Coconut cream"},
+		{ "ingredient" : "1 Lemon"},
+		{ "ingredient" : "1 tsp Dried Coriander"},
+		{ "ingredient" : "1/2 tsp Ground ginger powder"},
+		{ "ingredient" : "1 tsp Ground garlic powder"},
+		{ "ingredient" : "1/2 tsp Turmeric"},
+		{ "ingredient" : "Himalayan salt"},
+		{ "ingredient" : "Black pepper"},
+		{ "ingredient" : "White pepper" }
+	],
+	"instructions" : "Bake the sweet potato in the oven at 250c, for approximately 60mins, depending on the size* Remove the baked sweet potato from its´s peal into a pot, add the coconut and the spices. Blend and heat on the hob. Add water to get your desired soup consistency, I like the dish to be thick so I only added 1/2 dl of water.",
+	"instructions-extended": "<b>*</b> If you wish to speed up the process, chop the sweet potato into quarters"
+}

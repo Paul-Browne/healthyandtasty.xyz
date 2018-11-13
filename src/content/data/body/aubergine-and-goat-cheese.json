@@ -1,0 +1,15 @@
+{
+	"name" : "Aubergine and Goat Cheese",
+	"image" : "aubergine-and-goat-cheese.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1dl Quinoa" },
+		{ "ingredient" : "1/2 Aubergine" },
+		{ "ingredient" : "100g Goat cheese" },
+		{ "ingredient" : "1/4 Red onion" },
+		{ "ingredient" : "Oregano" },
+		{ "ingredient" : "Himalayan Salt" },
+		{ "ingredient" : "Black pepper" },
+		{ "ingredient" : "Onion powder" }
+	],
+	"instructions" : "Boil the quinoa with the spices. Meanwhile slice the onions and chop the aubergine. Fry the aubergine, towards the end add the onions. Serve the dish with goat cheese."
+}

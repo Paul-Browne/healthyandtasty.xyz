@@ -1,0 +1,21 @@
+{
+	"name" : "Crayfish Tortillas with a kick",
+	"image" : "crayfish-tortillas-with-a-kick.jpg",
+	"ingredients" : [
+		{ "ingredient" : "170g Crayfish" },
+		{ "ingredient" : "1 Avocado" },
+		{ "ingredient" : "12 Cherry tomatos" },
+		{ "ingredient" : "1/2 Red pepper" },
+		{ "ingredient" : "1 Pack Spiky lettuce" },
+		{ "ingredient" : "6 Tortillas" },
+		{ "sub-heading" : "Sauce"  },
+		{ "ingredient" : "2dl Sour cream (kermaviili)"  },
+		{ "ingredient" : "3tbs Dill"  },
+		{ "ingredient" : "2tsp English mustard powder"  },
+		{ "ingredient" : "1/3 tsp White pepper"  },
+		{ "ingredient" : "1/2 - 1tsp Himalayan salt"  },
+		{ "ingredient" : "1/2 Lemon"  }
+	],
+
+	"instructions" : "Juice the lemon and mix together all the ingredients."
+}

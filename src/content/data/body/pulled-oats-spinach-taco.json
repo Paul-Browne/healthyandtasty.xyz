@@ -1,0 +1,18 @@
+{
+	"name" : "Pulled oats spinach taco",
+	"image" : "pulled-oats-spinach-taco.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 pack Pulled oats" },
+		{ "ingredient" : "1 pack Tacos" },
+		{ "ingredient" : "200g Spinach" },
+		{ "ingredient" : "250g Mushrooms" },
+		{ "ingredient" : "Oatly sauce*" },
+		{ "ingredient" : "1 Red oninon" },
+		{ "ingredient" : "1/2 tsp Lemon grass" },
+		{ "ingredient" : "1 tsp Ground ginger" },
+		{ "ingredient" : "Himalayan salt" },
+		{ "ingredient" : "White pepper" }
+	],
+	"instructions" : "Slice the mushrooms and onions. Fry them with the  pulled oats 10-15 min. Ad spices.<br>Stuff the taco shells half way with the spinach then add the fried food and top with the oatly sauce.",
+	"instructions-extended" : "<b>*</b> This is a dairy free sauce that you can substitute with sour creme."
+}

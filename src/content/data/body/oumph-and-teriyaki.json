@@ -1,0 +1,18 @@
+{
+	"name" : "Oumph and Teriyaki",
+	"image" : "oumph-and-teriyaki.jpg",
+	"ingredients" : [
+		{ "ingredient" : "2 small Carrots" },
+		{ "ingredient" : "1 Onion" },
+		{ "ingredient" : "110g of Mushrooms" },
+		{ "ingredient" : "700g of Broccoli" },
+		{ "ingredient" : "1 pack of Coriander" },
+		{ "ingredient" : "200g Oumph, the pure chunk *" },
+		{ "ingredient" : "1 Lime" },
+		{ "ingredient" : "1dl Soy sauce" },
+		{ "ingredient" : "2 Garlic cloves" },
+		{ "ingredient" : "1-2 Tblsp Hunny" }
+	],
+	"instructions" : "Chop the vegetables. Mix the soy sauce, grated garlic and hunny, to create a home made Teriyaki. Cut the lime in 4 pieces. Fry the vegetables till they are nearly done. Then add the Ouph, lime  and Teriyaki let simmer under lid for about 5min, whilst cooking the pasta. Dish up the meal and garnish with coriander.",
+	"instructions-extended" : "<b>*</b> Can be substituted with soy meat."
+}
