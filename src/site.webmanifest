@@ -8,8 +8,6 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#00a300",
-    "background_color": "#00a300",
     "start_url": "https://healthyandtasty.xyz",
     "display": "standalone"
 }
