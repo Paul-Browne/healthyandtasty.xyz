@@ -1,4 +1,3 @@
-const path = require("path");
 const fs = require('fs');
 const os = require('os');
 const http2 = require('spdy');
@@ -6,7 +5,6 @@ const serveStatic = require('serve-static');
 const compression = require('compression');
 const express = require('express');
 const env = require('dotenv');
-
 env.config();
 
 const options = {
@@ -17,7 +15,7 @@ const options = {
 const serverRoot = process.env.PUBLIC_DIR_NAME || 'public';
 
 function serverSetup(protocal) {
-    var app = express();
+    const app = express();
     app.use(compression())
     app.use(serveStatic(serverRoot, {
         'extensions': ['html'],
@@ -38,13 +36,19 @@ fs.open('./.env', 'r', (err) => {
             serverSetup("http");
         }
     } else {
-        fs.readFile('./.env', 'utf8', (err, data) => {
-            if (data.indexOf('SSL_CRT_PATH') < 0 || data.indexOf('SSL_KEY_PATH') < 0) {
-                console.log("no SSL_CRT_PATH and/or SSL_KEY_PATH found in .env file");
-                serverSetup("http");
-            } else {
-                serverSetup("https");
+        if(process.env.SSL_CRT_PATH && process.env.SSL_KEY_PATH){
+            serverSetup("https");
+        }else{
+            if(!process.env.SSL_CRT_PATH){
+                console.log("no SSL_CRT_PATH found in .env file");
             }
-        })
+            if(!process.env.SSL_KEY_PATH){
+                console.log("no SSL_KEY_PATH found in .env file");
+            }
+            serverSetup("http");
+        }
     }
 })
+
+
+

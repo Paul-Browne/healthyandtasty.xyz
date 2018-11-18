@@ -3,24 +3,36 @@
 		"html": "base",
 		"htmlClass": "[PH1]",
 		"head": "head",
+		"favicons": "head/favicons",
+		"page-meta": {
+			"data": "data/body/[PH1].json",
+			"template" : "templates/head/meta-data.mustache"
+		},
 		"global-style-and-scripts" : "head/[PH1]",
 		"body": "body",
 		"header": "body/header",
 		"main": {
 			"data": "data/body/[PH1].json",
 			"template" : "templates/body/[PH1].mustache"
-		}
+		},
+		"google-analytics": "body/google-analytics"
 	},
 	"recipe": {
 		"html": "base",
 		"htmlClass": "[PH1]",
 		"head": "head",
+		"favicons": "head/favicons",
+		"page-meta": {
+			"data": "data/body/[PH1].json",
+			"template" : "templates/head/meta-data.mustache"
+		},
 		"global-style-and-scripts" : "head/recipe",
 		"body": "body",
 		"header": "body/header",
 		"main": {
 			"data": "data/body/[PH1].json",
 			"template" : "templates/body/recipe.mustache"
-		}
+		},
+		"google-analytics": "body/google-analytics"
 	}
 }
