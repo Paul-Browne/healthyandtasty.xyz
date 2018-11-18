@@ -6,11 +6,6 @@
 			"image" : "power-bowl.jpg" 
 		},
 		{ 
-			"name" : "Aubergine and Goat Cheese",
-			"link" : "aubergine-and-goat-cheese",
-			"image" : "aubergine-and-goat-cheese.jpg" 
-		},
-		{ 
 			"name" : "Broad Bean Steaks with Chickpea Bread",
 			"link" : "broad-bean-steaks-with-chickpea-bread",
 			"image" : "broad-bean-steaks-with-chickpea-bread.jpg" 
@@ -69,6 +64,11 @@
 			"name" : "Pulled Oats Spinach Taco",
 			"link" : "pulled-oats-spinach-taco",
 			"image" : "pulled-oats-spinach-taco.jpg" 
+		},
+		{ 
+			"name" : "Aubergine and Goat Cheese",
+			"link" : "aubergine-and-goat-cheese",
+			"image" : "aubergine-and-goat-cheese.jpg" 
 		},
 		{ 
 			"name" : "Pulled Peas with Spinach and Quinoa",
