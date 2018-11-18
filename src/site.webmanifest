@@ -10,6 +10,6 @@
     ],
     "theme_color": "#00a300",
     "background_color": "#00a300",
-    "start_url": "http://healthyandtasty.xyz",
+    "start_url": "https://healthyandtasty.xyz",
     "display": "standalone"
 }

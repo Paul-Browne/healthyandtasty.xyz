@@ -30,6 +30,7 @@ fs.readdir(sourceDirectoryName + "/images", (err, files) => {
                 if (err) {
                     console.log(err);
                 } else {
+                	console.log(filename + " processed");
                     file.quality(60).write(publicDirectoryName + "/images/" + filename);
                 }
             });
