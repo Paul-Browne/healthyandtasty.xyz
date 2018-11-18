@@ -13,18 +13,24 @@ const contentDirectoryPath = sourceDirectoryName + "/" + contentDirectoryName;
 
 
 fs.readdir(sourceDirectoryName + "/images", (err, files) => {
-    files.forEach(file => {
-        if (mime.lookup(file) === "image/jpeg") {
-            jimp.read(sourceDirectoryName + "/images/" + file, (err, file) => {
-            	
+    files.forEach(filename => {
+        if (mime.lookup(filename) === "image/jpeg") {
+            jimp.read(sourceDirectoryName + "/images/" + filename, (err, file) => {
                 if (err) {
                     console.log(err);
                 } else {
                     file
-                        .resize(100, 100) // resize
+                        .cover(400, 400) // resize
                         .quality(60) // set JPEG quality
-                        .greyscale() // set greyscale
-                        .write(publicDirectoryName + "/images/qweqwe.jpg"); // save
+                        //.greyscale() // set greyscale
+                        .write(publicDirectoryName + "/images/400/" + filename); // save
+                }
+            });
+            jimp.read(sourceDirectoryName + "/images/" + filename, (err, file) => {
+                if (err) {
+                    console.log(err);
+                } else {
+                    file.quality(60).write(publicDirectoryName + "/images/" + filename);
                 }
             });
         }

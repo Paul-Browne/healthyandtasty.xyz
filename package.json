@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "serve": "node serve.js",
-    "build": "node build.js"
+    "build": "node build.js && node images.js"
   },
   "author": "Paul Browne",
   "license": "MIT",
