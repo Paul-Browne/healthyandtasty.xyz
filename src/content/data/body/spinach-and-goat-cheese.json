@@ -1,6 +1,6 @@
 {
 	"name" : "Spinach and Goat cheese",
-	"image" : "spinich-and-goat-cheese.jpg",
+	"image" : "spinach-and-goat-cheese.jpg",
 	"ingredients" : [
 		{ "ingredient" : "150g Spinach" },
 		{ "ingredient" : "1 pack Soft Goat Cheese" },
@@ -8,8 +8,8 @@
 		{ "ingredient" : "2 dl Quinoa" },
 		{ "ingredient" : "Dried Mint" },
 		{ "ingredient" : "Olive oil" },
-		{ "ingredient" : "Himalayan Slat" },
+		{ "ingredient" : "Himalayan Salt" },
 		{ "ingredient" : "Onion powder" }
 	],
-	"instructions" : "Boil the quinoa. Add boiling water and spices into the soy mince. Blanch the spinach. Serve the dish with the creamy goat cheese on top."
+	"instructions" : "Cook the quinoa. Mix the soy mince with boiling water and add the spices. Blanch the spinach. Serve the dish with the creamy goat cheese on top."
 }

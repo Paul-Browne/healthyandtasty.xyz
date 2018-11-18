@@ -27,5 +27,6 @@
 	"tuna-salad" : ["recipe", "tuna-salad"],
 	"veggie-burger" : ["recipe", "veggie-burger"],
 	"zoodle-salad-with-tofu" : ["recipe", "zoodle-salad-with-tofu"],
-	"zoodles-with-avocado" : ["recipe", "zoodles-with-avocado"]
+	"zoodles-with-avocado" : ["recipe", "zoodles-with-avocado"],
+	"power-bowl" : ["recipe", "power-bowl"]
 }

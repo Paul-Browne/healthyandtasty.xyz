@@ -1,6 +1,11 @@
 {
 	"pages" : [
 		{ 
+			"name" : "Power Bowl",
+			"link" : "power-bowl",
+			"image" : "power-bowl.jpg" 
+		},
+		{ 
 			"name" : "Aubergine and Goat Cheese",
 			"link" : "aubergine-and-goat-cheese",
 			"image" : "aubergine-and-goat-cheese.jpg" 
