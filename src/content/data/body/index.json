@@ -144,6 +144,16 @@
 			"name" : "Zoodles with Avocado",
 			"link" : "zoodles-with-avocado",
 			"image" : "zoodles-with-avocado.jpg" 
+		},
+		{ 
+			"name" : "Lentil and Tomato Soup",
+			"link" : "lentil-and-tomato-soup",
+			"image" : "lentil-and-tomato-soup.jpg" 
+		},
+		{ 
+			"name" : "Turmeric Cauliflower and Chickpeas",
+			"link" : "turmeric-cauliflower-and-chickpeas",
+			"image" : "turmeric-cauliflower-and-chickpeas.jpg"
 		}
 	]
 }
