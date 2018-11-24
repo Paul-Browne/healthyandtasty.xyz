@@ -1,0 +1,14 @@
+{
+	"name" : "Veggie Wok",
+	"image" : "veggie-wok.jpg",
+	"ingredients" : [
+		{ "ingredient" : "Fennel"},
+		{ "ingredient" : "Carrot"},
+		{ "ingredient" : "Brocolli"},
+		{ "ingredient" : "Tofu"},
+		{ "ingredient" : "Cashews"},
+		{ "ingredient" : "Whole wheat noodles"},
+		{ "ingredient" : "Ghee"},
+		{ "ingredient" : "Hialayan Salt" } 
+	]
+}

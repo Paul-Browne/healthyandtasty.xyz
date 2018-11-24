@@ -28,5 +28,8 @@
 	"veggie-burger" : ["recipe", "veggie-burger"],
 	"zoodle-salad-with-tofu" : ["recipe", "zoodle-salad-with-tofu"],
 	"zoodles-with-avocado" : ["recipe", "zoodles-with-avocado"],
-	"power-bowl" : ["recipe", "power-bowl"]
+	"power-bowl" : ["recipe", "power-bowl"],
+	"turmeric-cauliflower-and-chickpeas" : ["recipe", "turmeric-cauliflower-and-chickpeas"],
+	"veggie-wok" : ["recipe", "veggie-wok"],
+	"lentil-and-tomato-stew" : ["recipe", "lentil-and-tomato-stew"]
 }

@@ -30,6 +30,13 @@ fs.readdir(sourceDirectoryName + "/images", (err, files) => {
                 if (err) {
                     console.log(err);
                 } else {
+                    file.resize(700, jimp.AUTO).quality(60).write(publicDirectoryName + "/images/700/" + filename); // save
+                }
+            });
+            jimp.read(sourceDirectoryName + "/images/" + filename, (err, file) => {
+                if (err) {
+                    console.log(err);
+                } else {
                 	console.log(filename + " processed");
                     file.quality(60).write(publicDirectoryName + "/images/" + filename);
                 }

@@ -1,0 +1,18 @@
+{
+	"name" : "Lentil and Tomato Stew",
+	"image" : "lentil-and-tomato-stew.jpg",
+	"ingredients" : [
+		{ "ingredient" : "6 vine Tomatoes"},
+		{ "ingredient" : "1 big red Onion"},
+		{ "ingredient" : "50g grated Ginger"},
+		{ "ingredient" : "4 Garlic cloves"},
+		{ "ingredient" : "125g dried Green lentils"},
+		{ "ingredient" : "100g dried red split lentils"},
+		{ "ingredient" : "1/2 tsp ground cinnamon"},
+		{ "ingredient" : "2 tsp dried parsley"},
+		{ "ingredient" : "350 ml vegetable stock"},
+		{ "ingredient" : "Himalayan salt"},
+		{ "ingredient" : "Pepper" }
+	],
+	"instructions" : "Chop the onions, great the ginger and garlic, lightly fry for a few minutes.<br><br>Roughly chop the tomatoes.<br><br>Put all of the ingredients in on large pot, cover and let is simmer for approximately 20min."
+}
