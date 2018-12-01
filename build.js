@@ -62,7 +62,6 @@ function buildPage(mapObj, obj) {
     }
     html = removeUnusedPlaceholders(html);
     html = minify(html, {
-        removeAttributeQuotes: true,
         collapseWhitespace: true,
         minifyCSS: true,
         minifyJS: true,

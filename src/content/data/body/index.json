@@ -1,6 +1,11 @@
 {
 	"pages" : [
 		{ 
+			"name" : "Fennel and Beetroot Power Bowl",
+			"link" : "fennel-and-beetroot-power-bowl",
+			"image" : "fennel-and-beetroot-power-bowl.jpg" 
+		},
+		{ 
 			"name" : "Power Bowl",
 			"link" : "power-bowl",
 			"image" : "power-bowl.jpg" 
@@ -154,6 +159,11 @@
 			"name" : "Turmeric Cauliflower and Chickpeas",
 			"link" : "turmeric-cauliflower-and-chickpeas",
 			"image" : "turmeric-cauliflower-and-chickpeas.jpg"
+		},
+		{ 
+			"name" : "Tomato Veggie Mince",
+			"link" : "tomato-veggie-mince",
+			"image" : "tomato-veggie-mince.jpg"
 		}
 	]
 }

@@ -1,0 +1,14 @@
+{
+	"name" : "Fennel and Beetroot Power Bowl",
+	"image" : "fennel-and-beetroot-power-bowl.jpg",
+	"ingredients" : [
+		{ "ingredient" : "130g Fennel (1/2)"},
+		{ "ingredient" : "75g Beetroot (75g) (1/2)"},
+		{ "ingredient" : "75g Goat cheese (crumbly)"},
+		{ "ingredient" : "40g Kale"},
+		{ "ingredient" : "100g Edamame/Soy beans (Defrosted)"},
+		{ "ingredient" : "0.75 dl Quinoa" }
+	],
+	"instructions" : "Chop and sautee the fennel in a small pot, add quinoa and water, cook until the quinoa is done.",
+	"instructions-extended" : "<b>In the meantime:</b><br/><br/>Great the beetroot<br/>Chop the goat cheese<br/>Ripe up the kale (remove stalk)"
+}

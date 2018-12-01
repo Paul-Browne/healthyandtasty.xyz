@@ -31,5 +31,7 @@
 	"power-bowl" : ["recipe", "power-bowl"],
 	"turmeric-cauliflower-and-chickpeas" : ["recipe", "turmeric-cauliflower-and-chickpeas"],
 	"veggie-wok" : ["recipe", "veggie-wok"],
-	"lentil-and-tomato-stew" : ["recipe", "lentil-and-tomato-stew"]
+	"lentil-and-tomato-stew" : ["recipe", "lentil-and-tomato-stew"],
+	"tomato-veggie-mince" : ["recipe", "tomato-veggie-mince"],
+	"fennel-and-beetroot-power-bowl" : ["recipe", "fennel-and-beetroot-power-bowl"]
 }
