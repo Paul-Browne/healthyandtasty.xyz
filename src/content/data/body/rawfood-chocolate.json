@@ -1,0 +1,12 @@
+{
+	"name" : "Rawfood chocolate",
+	"image" : "rawfood-chocolate.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Tbs Coconut oil"},
+		{ "ingredient" : "2Tbs Chocolate powder"},
+		{ "ingredient" : "Cashews"},
+		{ "ingredient" : "Dried berries"},
+		{ "ingredient" : "2 Tsp Maca"}
+	],
+	"instructions" : "Mix and put in freezer for 30min."
+}

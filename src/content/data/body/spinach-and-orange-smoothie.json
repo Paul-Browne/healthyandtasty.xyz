@@ -1,0 +1,12 @@
+{
+	"name" : "Spinach and Orange Smoothie",
+	"image" : "spinach-and-orange-smoothie.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1 Banana"},
+		{ "ingredient" : "1 Orange"},
+		{ "ingredient" : "40 g Spinish"},
+		{ "ingredient" : "1 dl water"},
+		{ "ingredient" : "1 Tbs Coconut oil"}
+	],
+	"instructions" : "Blend all the ingredients and enjoy!"
+}

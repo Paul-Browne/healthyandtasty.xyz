@@ -1,5 +1,15 @@
 {
-	"pages" : [
+	"pages" : [		
+		{ 
+			"name" : "Chai and Blackcurrent Smoothie",
+			"link" : "chai-and-blackcurrent-smoothie",
+			"image" : "chai-and-blackcurrent-smoothie.jpg" 
+		},		
+		{ 
+			"name" : "Spinach and Orange Smoothie",
+			"link" : "spinach-and-orange-smoothie",
+			"image" : "spinach-and-orange-smoothie.jpg" 
+		},
 		{ 
 			"name" : "Fennel and Beetroot Power Bowl",
 			"link" : "fennel-and-beetroot-power-bowl",

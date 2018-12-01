@@ -1,0 +1,11 @@
+{
+	"name" : "Chai and Blackcurrent Smoothie",
+	"image" : "chai-and-blackcurrent-smoothie.jpg",
+	"ingredients" : [
+		{ "ingredient" : "2dl Almond milk"},
+		{ "ingredient" : "1dl blackcurrent"},
+		{ "ingredient" : "1dl Stawberries"},
+		{ "ingredient" : "2tsp  Chia seeds"}
+	],
+	"instructions" : "Soak the chai seeds in the Almond milk over night. Blend all the ingredients and enjoy!"
+}
