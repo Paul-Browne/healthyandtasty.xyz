@@ -2,11 +2,12 @@
 	"name" : "Homemade Fish Sauce",
 	"image" : "homemade-fish-sauce.jpg",
 	"ingredients" : [
-		{ "ingredient" : "2dl Sour cream"},
+		{ "ingredient" : "2dl Oatly Fraiche*"},
 		{ "ingredient" : "2-3 tsp Dill"},
 		{ "ingredient" : "3 tsp Ramson"},
 		{ "ingredient" : "1 tsp garlic powder"},
 		{ "ingredient" : "2 tsp lemon Juice"},
 		{ "ingredient" : "Himalayan salt"}
-	]
+	],
+	"instructions" : "<b>*</b> This is a dairy free sauce that you can substitute with sour creme."
 }
