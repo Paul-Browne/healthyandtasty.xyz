@@ -2,16 +2,16 @@
 	"name" : "Oumph and Lime Wok",
 	"image" : "oumph-and-lime-wok.jpg",
 	"ingredients" : [
-		{ "ingredient" : "1 pack Oumph *" },
+		{ "ingredient" : "1 pack Oumph*" },
 		{ "ingredient" : "1 Lime" },
-		{ "ingredient" : "3/4 Red Pepper" },
+		{ "ingredient" : "1 Small Pepper" },
 		{ "ingredient" : "1 Onion" },
-		{ "ingredient" : "2 Parsnips" },
-		{ "ingredient" : "3-4 Carrots" },
+		{ "ingredient" : "200g Parsnip" },
+		{ "ingredient" : "3 Carrots" },
 		{ "ingredient" : "Himalayan Salt" },
-		{ "ingredient" : "Tumeric" },
-		{ "ingredient" : "Rosemary" },
-		{ "ingredient" : "Onion powder" }
+		{ "ingredient" : "1 1/2tsps Tumeric" },
+		{ "ingredient" : "3tsps Rosemary" },
+		{ "ingredient" : "2tsps Onion powder" }
 	],
 	"instructions" : "Fry the carrots and parsnips about 10mins, then add everything else fry approximately 10 more minutes.",
 	"instructions-extended" : "<b>*</b> Can be substituted with soy meat or other meat substitute."

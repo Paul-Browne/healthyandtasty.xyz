@@ -33,5 +33,6 @@
 	"veggie-wok" : ["recipe", "veggie-wok"],
 	"lentil-and-tomato-stew" : ["recipe", "lentil-and-tomato-stew"],
 	"tomato-veggie-mince" : ["recipe", "tomato-veggie-mince"],
-	"fennel-and-beetroot-power-bowl" : ["recipe", "fennel-and-beetroot-power-bowl"]
+	"fennel-and-beetroot-power-bowl" : ["recipe", "fennel-and-beetroot-power-bowl"],
+	"shrimp-power-bowl" : ["recipe", "shrimp-power-bowl"]
 }

@@ -1,0 +1,14 @@
+{
+	"name" : "Shrimp Power Bowl",
+	"image" : "shrimp-power-bowl.jpg",
+	"ingredients" : [
+		{ "ingredient" : "2dl Quinoa"},
+		{ "ingredient" : "2 large handful green Beans"},
+		{ "ingredient" : "1 pack flat Parsley or Coriander"},
+		{ "ingredient" : "4 Garlic cloves"},
+		{ "ingredient" : "1 red Onion"},
+		{ "ingredient" : "200g Shrimp" }
+	],
+	"instructions" : "Chop the onion and great the garlic, sauteé them in a pot. Add Quinoa, water and a pinch of Himalayan salt, cook till quinoa is done.",
+	"instructions-extended" : "<b>In the meantime:</b><br><br>Steam the beans and chop the radishes into 8 pieces fry for about 5min."
+}
