@@ -10,7 +10,8 @@
 		{ "ingredient" : "Black pepper"},
 		{ "ingredient" : "Olive oil" }
 	],
-	"instructions" : "Chop and fry the vegetables, meanwhile cube the feta."
+	"instructions" : "Chop and fry the vegetables, cube the feta.",
+	"instructions-extended" : "<b>Tip:</b> To make the meal more filling, serve with Quinoa.",
 }
 
 

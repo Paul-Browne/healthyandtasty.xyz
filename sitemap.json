@@ -4,7 +4,7 @@
     "spinach-and-goat-cheese": ["recipe", "spinach-and-goat-cheese"],
     "aubergine-and-goat-cheese": ["recipe", "aubergine-and-goat-cheese"],
     "broad-bean-steaks-with-chickpea-bread": ["recipe", "broad-bean-steaks-with-chickpea-bread"],
-    "butternut-squash-with-walnuts": ["recipe", "butternut-squash-with-walnuts"],
+    "butternut-squash-with-pecan-nuts": ["recipe", "butternut-squash-with-pecan-nuts"],
     "chickpea-pasta-and-spinach": ["recipe", "chickpea-pasta-and-spinach"],
     "crayfish-tortillas-with-a-kick": ["recipe", "crayfish-tortillas-with-a-kick"],
     "goat-cheese-salad": ["recipe", "goat-cheese-salad"],
@@ -37,5 +37,6 @@
     	"shrimp-power-bowl": ["recipe", "shrimp-power-bowl"],
     "spinach-and-orange-smoothie": ["recipe", "spinach-and-orange-smoothie"],
     "chai-and-blackcurrent-smoothie": ["recipe", "chai-and-blackcurrent-smoothie"],
-    	"rawfood-chocolate": ["recipe", "rawfood-chocolate"]
+    	"rawfood-chocolate": ["recipe", "rawfood-chocolate"],
+    "homemade-fish-sauce": ["recipe", "homemade-fish-sauce"]
 }
