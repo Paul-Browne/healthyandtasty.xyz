@@ -2,13 +2,15 @@
 	"name" : "Veggie Wok",
 	"image" : "veggie-wok.jpg",
 	"ingredients" : [
-		{ "ingredient" : "Fennel"},
-		{ "ingredient" : "Carrot"},
-		{ "ingredient" : "Brocolli"},
-		{ "ingredient" : "Tofu"},
+		{ "ingredient" : "1 Fennel"},
+		{ "ingredient" : "2 Carrots"},
+		{ "ingredient" : "1 Broccoli"},
+		{ "ingredient" : "1 pack Tofu"},
 		{ "ingredient" : "Cashews"},
-		{ "ingredient" : "Whole wheat noodles"},
-		{ "ingredient" : "Ghee"},
-		{ "ingredient" : "Hialayan Salt" } 
-	]
+		{ "ingredient" : "150g Chickpea pasta"},
+		{ "ingredient" : "Virgin Olive oil"},
+		{ "ingredient" : "Himalayan salt"} 
+	],
+	"instructions": "Chop the vegetables and the tofu. Fry the vegetables in olive oil with a pinch of Himalayan salt, add the tofu towards the end.",
+	"instructions-extended": "<b>In the meantime</b><br>Cook the chickpea pasta. Serve the dish with cashews and Himalayan salt."
 }
