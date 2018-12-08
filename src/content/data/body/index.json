@@ -1,6 +1,11 @@
 {
 	"pages" : [		
 		{ 
+			"name" : "Shrimp Power Bowl",
+			"link" : "shrimp-power-bowl",
+			"image" : "shrimp-power-bowl.jpg" 
+		},	
+		{ 
 			"name" : "Chai and Blackcurrent Smoothie",
 			"link" : "chai-and-blackcurrent-smoothie",
 			"image" : "chai-and-blackcurrent-smoothie.jpg" 

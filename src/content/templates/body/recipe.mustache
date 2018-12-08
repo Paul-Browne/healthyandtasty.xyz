@@ -19,11 +19,12 @@
 
     {{/ingredients}}
 
-    <p>{{{instructions}}}</p>
+        <div class="recipe-instructions">
+            <p>{{{instructions}}}</p>
 
-    {{#instructions-extended}}
-        <p>{{{instructions-extended}}}</p>
-    {{/instructions-extended}}
-
+            {{#instructions-extended}}
+                <p>{{{instructions-extended}}}</p>
+            {{/instructions-extended}}
+        </div>
     </div>
 </main>

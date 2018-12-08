@@ -90,7 +90,6 @@ header.body-header a {
     margin-top: 1rem; 
 }
 
-
 .recipe{
     display: flex;
     flex-wrap: wrap;
@@ -108,6 +107,16 @@ header.body-header a {
 .recipe-image{
     vertical-align: middle;
     width: 100%;
+}
+
+
+.recipe a{
+    border-bottom: 1px solid #634012;
+}
+
+.recipe-instructions a{
+    font-weight: 700;
+    border-bottom: 1.5px solid #634012;
 }
 
 @media (min-width:720px){

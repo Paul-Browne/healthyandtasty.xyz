@@ -34,9 +34,10 @@
     "lentil-and-tomato-stew": ["recipe", "lentil-and-tomato-stew"],
     "tomato-veggie-mince": ["recipe", "tomato-veggie-mince"],
     "fennel-and-beetroot-power-bowl": ["recipe", "fennel-and-beetroot-power-bowl"],
-    	"shrimp-power-bowl": ["recipe", "shrimp-power-bowl"],
+    "shrimp-power-bowl": ["recipe", "shrimp-power-bowl"],
     "spinach-and-orange-smoothie": ["recipe", "spinach-and-orange-smoothie"],
     "chai-and-blackcurrent-smoothie": ["recipe", "chai-and-blackcurrent-smoothie"],
     	"rawfood-chocolate": ["recipe", "rawfood-chocolate"],
-    "homemade-fish-sauce": ["recipe", "homemade-fish-sauce"]
+    "homemade-fish-sauce": ["recipe", "homemade-fish-sauce"],
+        "artichoke-soup": ["recipe", "artichoke-soup"]
 }
