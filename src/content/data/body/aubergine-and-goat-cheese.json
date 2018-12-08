@@ -7,9 +7,10 @@
 		{ "ingredient" : "100g Goat cheese" },
 		{ "ingredient" : "1/4 Red onion" },
 		{ "ingredient" : "Oregano" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan salt" },
 		{ "ingredient" : "Black pepper" },
 		{ "ingredient" : "Onion powder" }
 	],
-	"instructions" : "Cook the quinoa with the spices. Meanwhile slice the onions and chop the aubergine. Fry the aubergine, towards the end add the onions. Serve the dish with goat cheese slices."
+	"instructions" : "Chop the onions, lightly fry them in a pot in olive oil. Add Quinoa, water and a pinch of Himalayan salt, cook until the quinoa is done.",
+	"instructions-extended" : "<b>In the meantime</b><br>Chop the aubergine and fry it in olive oil with a sprinkle of Himalayan salt. Slice the goat cheese.<br><br>Serve the dish with black pepper and <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>"
 }

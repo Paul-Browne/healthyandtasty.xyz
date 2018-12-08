@@ -10,9 +10,9 @@
 		{ "ingredient" : "1 Red oninon" },
 		{ "ingredient" : "1/2 tsp Lemon grass" },
 		{ "ingredient" : "1 tsp Ground ginger" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
-		{ "ingredient" : "White pepper" }
+		{ "ingredient" : "White pepper" },
+		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" }
 	],
-	"instructions" : "Slice the mushrooms and onions. Fry them with the  pulled oats 10-15 min. Ad spices.<br>Stuff the taco shells half way with the spinach then add the fried food and top with the oatly sauce.",
+	"instructions" : "Slice the mushrooms and chop onions. Fry them with the pulled oats 10-15 min. Add spices.<br>Stuff the taco shells half way with the spinach then add the fried food and top with the oatly fraiche sauce.",
 	"instructions-extended" : "<b>*</b> This is a dairy free sauce that you can substitute with sour creme."
 }

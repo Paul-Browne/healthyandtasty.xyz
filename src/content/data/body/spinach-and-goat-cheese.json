@@ -8,8 +8,8 @@
 		{ "ingredient" : "2 dl Quinoa" },
 		{ "ingredient" : "Dried Mint" },
 		{ "ingredient" : "Olive oil" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan salt" },
 		{ "ingredient" : "Onion powder" }
 	],
-	"instructions" : "Cook the quinoa. Mix the soy mince with boiling water and add the spices. Blanch the spinach. Serve the dish with the spreadable goat cheese on top."
+	"instructions" : "Cook the quinoa. Mix the soy mince with boiling water and add the spices. Add <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a> to flavour. Blanch the spinach. Serve the dish with the spreadable goat cheese on top."
 }

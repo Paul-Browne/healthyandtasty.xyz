@@ -6,10 +6,10 @@
 		{ "ingredient" : "1/2 Red onion"},
 		{ "ingredient" : "1 Pack Feta"},
 		{ "ingredient" : "1/2 Red Pepper"},
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>"},
+		{ "ingredient" : "Himalayan salt"},
 		{ "ingredient" : "Black pepper"},
-		{ "ingredient" : "Olive oil" }
+		{ "ingredient" : "Virgin Olive oil" }
 	],
-	"instructions" : "Chop and fry the vegetables, cube the feta.",
+	"instructions" : "Chop and fry the vegetables in olive oil and <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>. Cube the feta.",
 	"instructions-extended" : "<b>Tip:</b> To make the meal more filling, serve with Quinoa."
 }

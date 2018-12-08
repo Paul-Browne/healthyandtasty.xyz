@@ -5,9 +5,9 @@
 		{ "ingredient" : "Rice" },
 		{ "ingredient" : "150g Spinach" },
 		{ "ingredient" : "1 Pack Tofu" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan salt" },
 		{ "ingredient" : "Black pepper" },
 		{ "ingredient" : "Dried Garlic" }
 	],
-	"instructions" : "Steam the rice, cube the tofu. Fry the tofu and ad the spices, blanch the spinach.<br>Serve on a bed of rice."
+	"instructions" : "Steam the rice, cube the tofu. Fry the tofu and ad the spices, blanch the spinach.<br>Serve on a bed of rice with <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>."
 }

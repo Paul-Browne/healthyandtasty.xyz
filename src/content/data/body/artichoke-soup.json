@@ -8,9 +8,9 @@
 		{ "ingredient" : "1 Chicken stock pot (Knorr)*"},
 		{ "ingredient" : "4 dl Water"},
 		{ "ingredient" : "Virgin Olive oil"},
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan salt" },
 		{ "ingredient" : "White Pepper" }
 	],
-	"instructions" : "Peel and chop the shallots. Rinse and chop the artichokes. Fry the shallots and artichokes for a few minutes in a small pot with olive oil and Himalayan salt.<br><br>Add the water and the stock pot. Simmer till artichokes are soft. Add white pepper and Himalayan salt. Blend and add the cream, cook for a few more minutes.",
+	"instructions" : "Peel and chop the shallots. Rinse and chop the artichokes. Fry the shallots and artichokes for a few minutes in a small pot with olive oil and Himalayan salt.<br><br>Add the water and the stock pot. Simmer till artichokes are soft. Add white pepper and <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>. Blend and add the cream, cook for a few more minutes.",
 	"instructions-extended" : "<b>*</b> Can be substituted with vegetable stock pot"
 }

@@ -8,11 +8,12 @@
 		{ "ingredient" : "1 Onion" },
 		{ "ingredient" : "200g Parsnip" },
 		{ "ingredient" : "3 Carrots" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan salt" },
+		{ "ingredient" : "Virgin olive oil" },
 		{ "ingredient" : "1 1/2tsps Turmeric" },
 		{ "ingredient" : "3tsps Rosemary" },
 		{ "ingredient" : "2tsps Onion powder" }
 	],
-	"instructions" : "Chop the vegetables. Cut the lime into eights.<br><br>Fry the carrots and parsnips about 5mins, then add everything else including the lime fry approximately 10 more minutes.",
+	"instructions" : "Chop the vegetables. Cut the lime into eights.<br><br>Fry the carrots and parsnips with a pinch of <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a> and olive oil for about 5mins, then add everything else including the lime fry approximately 10 more minutes.",
 	"instructions-extended" : "<b>*</b> Can be substituted with soy meat or other meat substitutes."
 }

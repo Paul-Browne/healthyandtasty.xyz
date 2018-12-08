@@ -7,9 +7,9 @@
 		{ "ingredient" : "1/2 Fennel" },
 		{ "ingredient" : "1/2 Fresh Basil" },
 		{ "ingredient" : "2 hand fulls off fresh Spinach" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "Himalayan Salt" },
 		{ "ingredient" : "Black pepper" },
 		{ "ingredient" : "Olive oil" }
 	],
-	"instructions" : "Slice the goat cheese. Chop the fennel, spinach and basil.<br> Fry the fennel, boil pasta, serve the dish with basil and spinach. Sprinkle with olive oil, Himalayan salt and black pepper."
+	"instructions" : "Slice the goat cheese. Chop the fennel, spinach and basil.<br> Fry the fennel, boil pasta, serve the dish with basil and spinach. Sprinkle with olive oil, <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a> and black pepper."
 }

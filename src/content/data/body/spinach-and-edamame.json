@@ -4,8 +4,9 @@
 	"ingredients" : [
 		{ "ingredient" : "50g Spinach" },
 		{ "ingredient" : "100g Edamame pasta" },
-		{ "ingredient" : "1 1/2 dl cashews" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" }
+		{ "ingredient" : "1 1/2 dl Cashews" },
+		{ "ingredient" : "Virgin olive oil" },
+		{ "ingredient" : "Himalayan salt" }
 	],
-	"instructions" : "Crush the cashews. Boil the Edamame pasta, Lightly fry the spinach in ghee.<br>Serve and enjoy."
+	"instructions" : "Crush the cashews. Cook the Edamame pasta. Lightly fry the spinach in olive oil.<br>Serve with black pepper and <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>."
 }

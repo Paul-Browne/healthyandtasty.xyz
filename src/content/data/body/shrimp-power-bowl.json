@@ -8,18 +8,9 @@
 		{ "ingredient" : "2dl Quinoa"},
 		{ "ingredient" : "4 Garlic cloves"},
 		{ "ingredient" : "2 Shallots"},
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>"},
+		{ "ingredient" : "Himalayan salt"},
 		{ "ingredient" : "Virgin Olive oil" }
 	],
-	"instructions" : "Chop the Shallot’s and great the garlic, lightly fry them in a pot. Add Quinoa, water and a pinch of Himalayan salt, cook until the quinoa is done.",
-	"instructions-extended" : "<b>In the meantime:</b><br><br>Pick the coriander leafs and place them in a bowl. Steam the asparagus about 10min. Chop the radishes into 8 pieces fry for about 5min in olive oil and a sprinkle of Himalayan salt. Grate the peal of the lemon and mix with the radishes.<br>Squeeze the lemon over the dish, serve the dish with the fresh coriander and Himalayan salt."
+	"instructions" : "Chop the Shallot’s and great the garlic, lightly fry them in a pot. Add Quinoa, water and a pinch of <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>, cook until the quinoa is done.",
+	"instructions-extended" : "<b>In the meantime:</b><br><br>Pick the coriander leafs and place them in a bowl. Steam the asparagus about 10min. Chop the radishes into 8 pieces fry for about 5min in olive oil and a sprinkle of Himalayan salt. Grate the peal of the lemon and mix with the radishes.<br>Squeeze the lemon over the dish, serve the dish with the fresh coriander and Himalayan salt"
 }
-
-
-
-
-
-
-
-
-

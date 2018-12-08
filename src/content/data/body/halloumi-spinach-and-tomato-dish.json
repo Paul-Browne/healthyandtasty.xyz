@@ -7,11 +7,11 @@
 		{ "ingredient" : "1/2 a Fennel" },
 		{ "ingredient" : "1/3 Courgette" },
 		{ "ingredient" : "40g Spinnach" },
-		{ "ingredient" : "Olive oil" },
+		{ "ingredient" : "Virgin Olive oil" },
 		{ "ingredient" : "Garlic powder" },
 		{ "ingredient" : "White pepper" },
-		{ "ingredient" : "<a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" }
+		{ "ingredient" : "Himalayan salt" }
 	],
-	"instructions" : "Chop the Fennel and slice the courgette. Place them in oven for 15 min. Meanwhile slice halloumi and prepare the quinoa.",
+	"instructions" : "Chop the Fennel and slice the courgette, place on oven tray and drizzle olive oil over the dish add a pinch of <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>. Place them in oven for 15 min. Meanwhile slice halloumi and prepare the quinoa.",
 	"instructions-extended" : "Add the halloumi and cherry tomatoes to the dish and place in the oven for 15 more minutes. Blanche the spinach and serve the dish."
 }

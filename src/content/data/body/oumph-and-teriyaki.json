@@ -7,12 +7,13 @@
 		{ "ingredient" : "150g of Mushrooms"},
 		{ "ingredient" : "300g of Broccoli (remove the stalk)"},
 		{ "ingredient" : "1 pack of Coriander"},
-		{ "ingredient" : "200g Oumph, the pure chunk*"},
+		{ "ingredient" : "200g Oumph, the pure chunk (vegetarian meat) *"},
 		{ "ingredient" : "1 Lime"},
 		{ "ingredient" : "1dl Soy sauce"},
 		{ "ingredient" : "3 Garlic cloves"},
-		{ "ingredient" : "2 Tbsp. Honey" }
+		{ "ingredient" : "2 Tbsp. Honey" },
+		{ "ingredient" : "Himalayan Salt" }
 	],
-	"instructions" : "Chop the vegetables, mushrooms and onion. Fry the wok-mix until the vegetables are nearly done. In the meantime cut the lime into 8 pieces, and chop the coriander. Press the garlic in the wok, add the Oumph, soy souce, lime, and honey, let simmer under lid for about 5min. Dish up the meal and garnish with coriander.",
+	"instructions" : "Chop the vegetables, mushrooms and onion. Fry the wok-mix until the vegetables are nearly done. In the meantime cut the lime into 8 pieces, and chop the coriander. Press the garlic in the wok, add the Oumph, soy souce, lime, honey and a pinch of <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>, let simmer under lid for about 5min. Dish up the meal and garnish with coriander.",
 	"instructions-extended" : "<b>*</b> Can be substituted with soy meat."
 }

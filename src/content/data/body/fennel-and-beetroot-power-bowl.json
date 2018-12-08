@@ -7,8 +7,9 @@
 		{ "ingredient" : "75g Goat cheese (crumbly)"},
 		{ "ingredient" : "40g Kale"},
 		{ "ingredient" : "100g Edamame/Soy beans (Defrosted)"},
-		{ "ingredient" : "0.75 dl Quinoa" }
+		{ "ingredient" : "0.75 dl Quinoa" },
+		{ "ingredient" : "Himalayan salt" }
 	],
-	"instructions" : "Chop and lightly fry the fennel in a small pot, add quinoa and water, cook until the quinoa is done.",
-	"instructions-extended" : "<b>In the meantime:</b><br/><br/>Great the beetroot<br/>Chop the goat cheese<br/>Rip up the kale (remove stalk)"
+	"instructions" : "Chop and lightly fry the fennel in a small pot, add quinoa, water and a pinch of Himalayan salt, cook until the quinoa is done. Steam th Edamme beans for 5 minutes.",
+	"instructions-extended" : "<b>In the meantime:</b><br/><br/>Great the beetroot<br/>Chop the goat cheese<br/>Rip up the kale (remove stalk). Serve with <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>"
 }

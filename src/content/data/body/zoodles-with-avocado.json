@@ -9,9 +9,9 @@
 		{ "ingredient" : "1/2dl Walnuts"},
 		{ "ingredient" : "1 Lemon"},
 		{ "ingredient" : "4tbs Olive oil"},
-		{ "ingredient" : "1/2tbs <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>"},
+		{ "ingredient" : "1/2tbs Himalayan salt"},
 		{ "ingredient" : "Black Pepper"}
 	],
-	"instructions" : "Make the zoodles. Blend all of the other ingredients together.",
+	"instructions" : "Make the zoodles. Blend all of the other ingredients together, squeeze the Lemon into the mix. Serve with black pepper and <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>.",
 	"instructions-extended" : "<b>Tip:</b> To make the dish more filling. Add extra walnuts on top of the dish."
 }

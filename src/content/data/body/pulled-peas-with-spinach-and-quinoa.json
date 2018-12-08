@@ -4,7 +4,9 @@
 	"ingredients" : [
 		{ "ingredient" : "1 pack Pulled peas or other meat substitute" },
 		{ "ingredient" : "1 Bag of frozen Spinach" },
-		{ "ingredient" : "2 dl Quinoa" }
+		{ "ingredient" : "2 dl Quinoa" },
+		{ "ingredient" : "1 Vegetable stock pot"},
+		{ "ingredient" : "Himalayan salt" }
 	],
-	"instructions" : "Cook the quinoa. Slow cook the spinach separately. When quinoa is nearly done fry the pulled peas for 5min. Serve and enjoy"
+	"instructions" : "Cook the quinoa with the stock pot. When the quinoa is nearly done fry the pulled peas for 5min. Blanche the spinach. Serve with <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a> and enjoy."
 }

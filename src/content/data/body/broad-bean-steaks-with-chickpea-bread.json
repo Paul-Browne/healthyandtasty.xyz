@@ -10,7 +10,7 @@
 		{ "ingredient" : "1 tsp Baking Soda" },
 		{ "ingredient" : "2 tsp Powdered red pepper" },
 		{ "ingredient" : "1 tsp Dijon mustard" },
-		{ "ingredient" : "1 tsp <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>" },
+		{ "ingredient" : "1 tsp Himalayan salt" },
 		{ "ingredient" : "3/4 dl Chickpea flour or Full grain wheat" },
 		{ "sub-heading" : "Chickpea bread" },
 		{ "ingredient" : "1 cup Chickpea flower" },
@@ -25,5 +25,5 @@
 		{ "ingredient" : "1 small Cucumber" }
 	],
 	"instructions" : "<b>Broad-bean Steaks</b><br><br>Soak the beans over night. Blend the beans, the onions, parsley and spices. Add 0.5 - 1 dl water if necessary. Make small patties and fry them with a lot of olive oil.",
-	"instructions-extended" : "<b>Chickpea bread</b><br><br>Make the chickpea batter and let it rest 30 mins. Turn oven to 225 C. Heat an oven-safe pot approximately 20cm in dimeter. Drizzle olive oil in the pot, pour the chickpea batter in the pot and place high up in the oven for 10min, using grill setting."
+	"instructions-extended" : "<b>Chickpea bread</b><br><br>Make the chickpea batter and let it rest 30 mins. Turn oven to 225 C. Heat an oven-safe pot approximately 20cm in dimeter. Drizzle olive oil in the pot, pour the chickpea batter in the pot and place high up in the oven for 10min, using grill setting.<br><br>Serve the dish with <a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Himalayan salt</a>, black pepper and olive oil."
 }
