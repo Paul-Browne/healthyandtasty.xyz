@@ -1,0 +1,16 @@
+{
+	"name" : "Goat Cheese with Zoodles",
+	"image" : "halloumi-with-zoodles.jpg",
+	"ingredients" : [
+		{ "ingredient" : "1/2 log of brie goat cheese" },
+		{ "ingredient" : "5 cherry tomatoes" },
+		{ "ingredient" : "4 sun-dried tomatoes" },
+		{ "ingredient" : "1 small Zucchini" },
+		{ "ingredient" : "2 tbs Pumpkin seeds" },
+		{ "ingredient" : "White pepper" },
+		{ "ingredient" : "Virgin olive oil" },
+		{ "ingredient" : "Himalayan salt" }
+	],
+	"instructions" : "Make the zoodles, slice the goat cheese and chop the tomatoes. Fry the zoodles in virgin olive oil for a few minutes. Dish up and enjoy!<br>",
+	"instructions-extended" : "<b>Health tip:</b> If you want to add good fibres to your meal serve with quinoa or amara (approximately 1dl as dry)<br><br><b>Health tip:</b> The healthiest and tastiest sun-dried tomatoes you can buy from a health shop. They are rich in flavour and aren't soaked in oil that contains no nutrition.<br><br><a href='https://draxe.com/pink-himalayan-salt/' target='_blank'>Reasons to swap to Himalayan salt</a><br><br><a href='https://www.prevention.com/food-nutrition/healthy-eating/a20447024/goat-cheese/' target='_blank'>6 Reasons You Should Switch to Goat Cheese</a>"
+}
