@@ -50,7 +50,6 @@ header.body-header a {
 
 .home{
     max-width: 1560px;
-    padding: 0 10px;
     margin: 0 auto;
     display: flex;
     align-items: flex-end;
@@ -128,9 +127,22 @@ header.body-header a {
     }
 }
 
-.intro{
+.intro-wrapper {
+    width: 100%;
     font-size: 1.35em;
     color: #634012;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.66);
+    margin: 0;
+    border-bottom: 3px solid #634012;
+    border-top: 2px solid #634012;
+    min-height: 130px;
+    display: flex;
+    align-items: center;
+}
+.intro{
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 
